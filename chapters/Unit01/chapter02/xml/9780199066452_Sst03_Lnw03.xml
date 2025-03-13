@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Land and water</b>]]></text>
+<text><![CDATA[Name the different parts of the picture correctly with the help of the hints provided.]]></text>
+<text><![CDATA[To find the hints, move the mouse pointer over the highlighted parts of the picture.]]></text>
+<text><![CDATA[Click the box to type your answer.]]></text>
+<text><![CDATA[Press Enter to submit the answer.]]></text>
+
+<text><![CDATA[<b>Mountain</b>]]></text>
+<text><![CDATA[<b>Waterfall</b>]]></text>
+<text><![CDATA[<b>River</b>]]></text>
+<text><![CDATA[<b>Plateau</b>]]></text>
+<text><![CDATA[<b>Lake</b>]]></text>
+<text><![CDATA[<b>Cliff</b>]]></text>
+<text><![CDATA[<b>Sea</b>]]></text>
+<text><![CDATA[<b>Beach</b>]]></text>
+<text><![CDATA[<b>Island</b>]]></text>
+<text><![CDATA[<b>Coast</b>]]></text>
+<text><![CDATA[<b>Hills</b>]]></text>
+<text><![CDATA[<b>Valley</b>]]></text>
+
+
+<!-- Hints -->
+<hint><![CDATA[The highest places on land.]]></hint>
+<hint><![CDATA[Rapidly falling water from high mountains.]]></hint>
+<hint><![CDATA[Stream that flows down from mountains into the lakes or seas.]]></hint>
+<hint><![CDATA[High level land area.]]></hint>
+<hint><![CDATA[Lowland between hills and mountains.]]></hint>
+<hint><![CDATA[Steep hill by the sea.]]></hint>
+<hint><![CDATA[Large body of salty water.]]></hint>
+<hint><![CDATA[Land by the sea filled with sand.]]></hint>
+<hint><![CDATA[Land near the sea.]]></hint>
+
+<hint><![CDATA[Low and not verysteep mountains.]]></hint>
+<hint><![CDATA[A piece of land surrounded by water on all sides.]]></hint>
+
+
+<hint><![CDATA[A body of water surrounded by land on all sides.]]></hint>
+
+<hint1><![CDATA[<B>Hint</B>]]></hint1>
+
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+<feedback><![CDATA[The correct answer is.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good Job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+
+</data>
+</framexml>

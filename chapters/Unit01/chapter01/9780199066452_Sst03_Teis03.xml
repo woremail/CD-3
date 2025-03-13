@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<heading><![CDATA[<B>The Earth in space</B>]]></heading>
+<heading><![CDATA[Say whether the statement is true or false.]]></heading>
+<heading><![CDATA[Use the pin to burst the balloon with the correct answer.]]></heading>
+<heading><![CDATA[Remember you have only 10 seconds to answer each question.]]></heading>
+
+
+
+<text><![CDATA[   There are nine planets in the solar system.]]></text>
+<text><![CDATA[The Earth is surrounded by the atmosphere.]]></text>
+<text><![CDATA[   The Sun is the biggest planet.]]></text>
+<text><![CDATA[The Earth takes 24 hours to move around the Sun once.]]></text>
+<text><![CDATA[The Moon is the only natural satellite of the Earth.]]></text>
+<text><![CDATA[The spinning of the Earth causes day and night.]]></text>
+<text><![CDATA[The Sun is the closest heavenly body to the Earth.]]></text>
+<text><![CDATA[Looking at the Sun directly can damage our eyes.]]></text>
+<text><![CDATA[The image shows the correct position of the Earth, the Sun, and the Moon.]]></text>
+<text><![CDATA[   The Moon has no light of its own.]]></text>
+<text><![CDATA[Start]]></text>
+
+
+<!-- !!Option!! -->
+<option><![CDATA[True]]></option>
+<option><![CDATA[False]]></option>
+
+
+<!-- !!Number!! -->
+<number><![CDATA[<B>1</B>]]></number>
+<number><![CDATA[<B>2</B>]]></number>
+<number><![CDATA[<B>3</B>]]></number>
+<number><![CDATA[<B>4</B>]]></number>
+<number><![CDATA[<B>5</B>]]></number>
+<number><![CDATA[<B>6</B>]]></number>
+<number><![CDATA[<B>7</B>]]></number>
+<number><![CDATA[<B>8</B>]]></number>
+<number><![CDATA[<B>9</B>]]></number>
+<number><![CDATA[<B>10</B>]]></number>
+
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct.]]></feedback>
+<feedback><![CDATA[]]></feedback>
+<feedback><![CDATA[]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Time out]]></feedback>
+
+</data>
+</framexml>

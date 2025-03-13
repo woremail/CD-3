@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Religion</b>]]></text>
+<text><![CDATA[Look! These birds are trapped in cages!]]></text>
+<text><![CDATA[Help Jack free the birds. Use the arrow keys to help Jack climb the ladder and reach the cage.]]></text>
+<text><![CDATA[Answer the questions by choosing the correct answer.]]></text>
+
+<!-- Number -->
+<number><![CDATA[1.]]></number>
+<number><![CDATA[2.]]></number>
+<number><![CDATA[3.]]></number>
+<number><![CDATA[4.]]></number>
+<number><![CDATA[5.]]></number>
+<number><![CDATA[6.]]></number>
+<number><![CDATA[7.]]></number>
+<number><![CDATA[8.]]></number> 
+<number><![CDATA[9.]]></number>
+<number><![CDATA[10.]]></number> 
+
+<!-- Question text -->
+
+<Question><![CDATA[People following which religion will go to the place shown below?]]></Question>
+<Question><![CDATA[Gurdwara]]></Question>
+<Question><![CDATA[Mosque]]></Question>
+<Question><![CDATA[Temple]]></Question>
+<Question><![CDATA[Church]]></Question>
+<Question><![CDATA[Temple]]></Question>
+<Question><![CDATA[Temple]]></Question>
+<Question><![CDATA[Synagogue]]></Question>
+
+
+
+
+<!-- Option text -->
+
+<Option><![CDATA[Hinduism]]></Option>
+<Option><![CDATA[Sikhism]]></Option>
+<Option><![CDATA[Islam]]></Option>
+<Option><![CDATA[Christianity]]></Option>
+<Option><![CDATA[Buddhism]]></Option>
+<Option><![CDATA[Judaism]]></Option>
+<Option><![CDATA[Zoroastrianism]]></Option>
+
+
+
+<!-- feedback text -->
+
+
+<feedback><![CDATA[That is correct! The bird has been set free!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too!]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[GAME OVER!]]></feedback>
+
+
+
+
+</data>
+</framexml>

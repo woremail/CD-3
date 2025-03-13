@@ -1,0 +1,14 @@
+private static function getFilenameFromUrl(url:String):String {
+	var letters:Array= [];
+	var charPosition:int= url.length;
+	var currentCharacter:String;
+	while (currentCharacter != '/' && currentCharacter != '\\') {
+		currentCharacter = url.charAt(charPosition);
+		letters.push( currentCharacter);
+		charPosition--;
+	}
+	letters = letters.reverse();
+	letters.shift();
+	var filename:String = letters.join('');
+	return filename;
+}

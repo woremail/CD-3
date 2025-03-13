@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Transport</b>]]></text>
+<text><![CDATA[Help Salman reach his home on time.]]></text>
+<text><![CDATA[Answer the question by clicking the correct picture.]]></text>
+<text><![CDATA[Remember you have only 10 seconds to answer the question.]]></text>
+<text><![CDATA[Start]]></text>
+
+<!-- Questions -->
+
+<Question><![CDATA[<B>1</B>   Which is the quickest mode of transport?]]></Question>
+<Question><![CDATA[<B>2</B>   We use this mode of transport to travel from Karachi to London.]]></Question>
+<Question><![CDATA[<B>3</B>   This mode of transport pulls carriages along tracks or rails.]]></Question>
+<Question><![CDATA[<B>4</B>   A/An __________ is most useful for travelling short distances by air.]]></Question>
+<Question><![CDATA[<B>5</B>   It carries passengers from one bank of a river to the other.]]></Question>
+<Question><![CDATA[<B>6</B>   This vehicle does not have an engine nor is it pulled by animals.]]></Question>
+<Question><![CDATA[<B>7</B>   A ______ can carry petroleum and a large amount of cargo by sea.]]></Question>
+<Question><![CDATA[<B>8</B>   This type of vehicle is commonly seen in villages.]]></Question>
+<Question><![CDATA[<B>9</B>   This transport network connects all major towns and cities of Pakistan.]]></Question>
+<Question><![CDATA[<B>10</B>   This vehicle has a motor and wheels and runs only on roads.]]></Question>
+
+
+<Option><![CDATA[Car]]></Option>
+<Option><![CDATA[Train]]></Option>
+<Option><![CDATA[Aeroplane]]></Option>
+<Option><![CDATA[Ship]]></Option>
+<Option><![CDATA[Bicycle]]></Option>
+<Option><![CDATA[Bullock cart]]></Option>
+<Option><![CDATA[Boat]]></Option>
+<Option><![CDATA[Helicopter]]></Option>
+<Option><![CDATA[Ferry]]></Option>
+<Option><![CDATA[Ship]]></Option>
+
+<answer><![CDATA[helicopter]]></answer>
+<answer><![CDATA[ship]]></answer>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's incorrect! Try once more!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong again!]]></feedback>
+<feedback><![CDATA[Here is the correct answer....!]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Time out]]></feedback>
+
+
+</data>
+</framexml>

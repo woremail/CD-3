@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Climate</b>]]></text>
+<text><![CDATA[Help Pingu, the penguin, catch some fish.]]></text>
+<text><![CDATA[Answer the question by clicking the correct picture within 10 seconds or the ice floes will melt.]]></text>
+<text><![CDATA[Start]]></text>
+
+<!-- Questions -->
+
+<Question><![CDATA[Which of the following people keeps a record of weather and climate?]]></Question>
+<Option><![CDATA[Meteorologist]]></Option>
+<Option><![CDATA[Astronomer]]></Option>
+
+
+<Question><![CDATA[Which of the following pictures shows summer?]]></Question>
+
+
+
+<Question><![CDATA[Which of the following pictures shows spring?]]></Question>
+
+
+
+<Question><![CDATA[Which of the following instruments is used to measure temperature?]]></Question>
+<Option><![CDATA[Barometer]]></Option>
+<Option><![CDATA[Thermometer]]></Option>
+
+
+<Question><![CDATA[Which of the following is used to measure air pressure?]]></Question>
+<Option><![CDATA[Anemometer]]></Option>
+<Option><![CDATA[Barometer]]></Option>
+
+
+<Question><![CDATA[We use a ___________ to check the direction of wind.]]></Question>
+<Option><![CDATA[Rain gauge]]></Option>
+<Option><![CDATA[Weathervane]]></Option>
+
+
+<Question><![CDATA[Wind speed can be measured with the help of a/an _________.]]></Question>
+<Option><![CDATA[Anemometer]]></Option>
+<Option><![CDATA[Thermometer]]></Option>
+
+
+<Question><![CDATA[Which of the following shows a rain<BR>gauge?]]></Question>
+<Option><![CDATA[Rain gauge]]></Option>
+<Option><![CDATA[Barometer]]></Option>
+
+<Question><![CDATA[Snow falls in _______.]]></Question>
+
+
+<Question><![CDATA[Leaves fall from trees in ______.]]></Question>
+
+
+<answer><![CDATA[weathervane]]></answer>
+<answer><![CDATA[anemometer]]></answer>
+<answer><![CDATA[winter]]></answer>
+<answer><![CDATA[autumn]]></answer>
+
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[Wow! That was excellent!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Time out!]]></feedback>
+
+</data>
+</framexml>

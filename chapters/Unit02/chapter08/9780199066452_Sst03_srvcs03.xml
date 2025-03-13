@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Services</b>]]></text>
+<text><![CDATA[Help the boy cross the river by completing the sentence. Choose the correct log floating on the water; otherwise the boat will sink!]]></text>
+<text><![CDATA[Choose the correct log floating on the water otherwise the boat will sink!]]></text>
+
+
+
+
+<text><![CDATA[1]]></text>
+<text><![CDATA[A police __________ is a place where policemen and policewomen work.]]></text>
+
+<text><![CDATA[2]]></text>
+<text><![CDATA[Policemen who control the flow of vehicles on roads are called __________ policemen.]]></text>
+
+<text><![CDATA[3]]></text>
+<text><![CDATA[The __________ help put out dangerous fires.]]></text>
+
+<text><![CDATA[4]]></text>
+<text><![CDATA[People who are badly hurt are taken to the ____________.]]></text>
+
+<text><![CDATA[5]]></text>
+<text><![CDATA[A __________ is a small hospital with only one doctor.]]></text>
+
+<text><![CDATA[6]]></text>
+<text><![CDATA[A person who treats sick people is called a __________.]]></text>
+
+<text><![CDATA[7]]></text>
+<text><![CDATA[A __________ is a person who assists a doctor.]]></text>
+
+<text><![CDATA[8]]></text>
+<text><![CDATA[__________ are people who work in the fire brigade.]]></text>
+
+<text><![CDATA[9]]></text>
+<text><![CDATA[Laws are the __________ that everybody in a society needs to follow.]]></text>
+
+<text><![CDATA[10]]></text>
+<text><![CDATA[Firefighters take a lot of risks and so they are __________ people.]]></text>
+
+<text><![CDATA[station]]></text>
+<text><![CDATA[post]]></text>
+<text><![CDATA[building]]></text>
+<text><![CDATA[centre]]></text>
+
+<text><![CDATA[guard]]></text>
+<text><![CDATA[traffic]]></text>
+<text><![CDATA[security]]></text>
+<text><![CDATA[inspector]]></text>
+
+<text><![CDATA[police]]></text>
+<text><![CDATA[centre]]></text>
+<text><![CDATA[firefighters]]></text>
+<text><![CDATA[service]]></text>
+
+<text><![CDATA[police station]]></text>
+<text><![CDATA[hospital]]></text>
+<text><![CDATA[pharmacy]]></text>
+<text><![CDATA[welfare centre]]></text>
+
+<text><![CDATA[pharmacy]]></text>
+<text><![CDATA[dispensary]]></text>
+<text><![CDATA[ward]]></text>
+<text><![CDATA[clinic]]></text>
+
+<text><![CDATA[nurse]]></text>
+<text><![CDATA[doctor]]></text>
+<text><![CDATA[driver]]></text>
+<text><![CDATA[lawyer]]></text>
+
+<text><![CDATA[lawyer]]></text>
+<text><![CDATA[teacher]]></text>
+<text><![CDATA[policeman]]></text>
+<text><![CDATA[nurse]]></text>
+
+<text><![CDATA[Policemen]]></text>
+<text><![CDATA[Firefighters]]></text>
+<text><![CDATA[Fishermen]]></text>
+<text><![CDATA[Soldiers]]></text>
+
+<text><![CDATA[principles]]></text>
+<text><![CDATA[morals]]></text>
+<text><![CDATA[rules]]></text>
+<text><![CDATA[lessons]]></text>
+
+<text><![CDATA[healthy]]></text>
+<text><![CDATA[strong]]></text>
+<text><![CDATA[wise]]></text>
+<text><![CDATA[brave]]></text>
+
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try once more!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[Wow! That was superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Game over!]]></feedback>
+
+
+
+</data>
+</framexml>

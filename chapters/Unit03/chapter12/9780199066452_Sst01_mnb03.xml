@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Money and banks</B>]]></text>
+<text><![CDATA[Solve the crossword. Figure out the correct word from the hints provided. Click 'Submit' once you are done.]]></text>
+
+<!-- submit -->
+<submit><![CDATA[<B>Submit</B>]]></submit>
+
+<!-- Across -->
+<Question><![CDATA[<B>Across:</B>]]></Question>
+<Question><![CDATA[early money made from metals like gold, silver, and copper]]></Question>
+<Question><![CDATA[early system of exchanging goods for goods]]></Question>
+<Question><![CDATA[currency of China]]></Question>
+<Question><![CDATA[the first country to invent money]]></Question>
+<Question><![CDATA[old coins had his image on one side]]></Question>
+<Question><![CDATA[people open this in a bank]]></Question>
+<Question><![CDATA[ATM stands for Automated ________ Machine.]]></Question>
+<Question><![CDATA[the capital of Pakistan]]></Question>
+<Question><![CDATA[the capital of Pakistan]]></Question>
+
+<!-- Down -->
+<Question><![CDATA[<B>Down:</B>]]></Question>
+<Question><![CDATA[daily payment to labourers]]></Question>
+<Question><![CDATA[the first country to use paper money]]></Question>
+<Question><![CDATA[The _______ Bank of Pakistan issues currency notes in the country.]]></Question>
+<Question><![CDATA[a safe place to keep money]]></Question>
+<Question><![CDATA[currency of the Kingdom of Saudi Arabia]]></Question>
+<Question><![CDATA[paper currency produced by governments]]></Question>
+<Question><![CDATA[currency of the United States of America]]></Question>
+<Question><![CDATA[a precious metal first used to make coins]]></Question>
+
+
+<!-- q Options -->
+<ques><![CDATA[1]]></ques>
+<ques><![CDATA[2]]></ques>
+<ques><![CDATA[3]]></ques>
+<ques><![CDATA[4]]></ques>
+<ques><![CDATA[5]]></ques>
+<ques><![CDATA[6]]></ques>
+<ques><![CDATA[7]]></ques>
+<ques><![CDATA[8]]></ques>
+<ques><![CDATA[9]]></ques>
+<ques><![CDATA[10]]></ques>
+<ques><![CDATA[11]]></ques>
+<ques><![CDATA[12]]></ques>
+<ques><![CDATA[13]]></ques>
+<ques><![CDATA[14]]></ques>
+<ques><![CDATA[15]]></ques>
+<ques><![CDATA[16]]></ques>
+
+
+
+
+
+<!-- Options -->
+
+<option><![CDATA[W]]></option>
+<option><![CDATA[G]]></option>
+<option><![CDATA[D]]></option>
+<option><![CDATA[C]]></option>
+<option><![CDATA[A]]></option>
+<option><![CDATA[G]]></option>
+<option><![CDATA[I]]></option>
+<option><![CDATA[C]]></option>
+<option><![CDATA[S]]></option>
+<option><![CDATA[T]]></option>
+<option><![CDATA[N]]></option>
+<option><![CDATA[Y]]></option>
+<option><![CDATA[L]]></option>
+<option><![CDATA[O]]></option>
+<option><![CDATA[E]]></option>
+<option><![CDATA[R]]></option>
+<option><![CDATA[B]]></option>
+
+<!-- across number -->
+<number><![CDATA[3]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[11]]></number>
+<number><![CDATA[13]]></number>
+<number><![CDATA[14]]></number>
+<number><![CDATA[15]]></number>
+<number><![CDATA[16]]></number>
+
+<!-- down number -->
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[10]]></number>
+<number><![CDATA[12]]></number>
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[Well done!]]></feedback>
+<feedback><![CDATA[Hmm... Some of these are incorrect. Try to fill them again.]]></feedback>
+<feedback><![CDATA[Oops! Better luck next time.]]></feedback>
+<feedback><![CDATA[Oops! Better luck next time.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[Wow! You are simply superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Time over]]></feedback>
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's incorrect! Try once more!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong again!]]></feedback>
+
+</data>
+</framexml>

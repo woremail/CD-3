@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Festivals</b>]]></text>
+<text><![CDATA[Each dock shows a picture of a festival. The name of the festival is shown below.]]></text>
+<text><![CDATA[Match the festival name to the correct picture.]]></text>
+<text><![CDATA[Click the boat and drag it to the dock with the correct picture. ]]></text>
+
+
+
+
+<question><![CDATA[Eid-ul-Azha]]></question>
+<question><![CDATA[Eid-i-Milad-un-Nabi]]></question>
+<question><![CDATA[Basant]]></question>
+<question><![CDATA[Christmas]]></question>
+<question><![CDATA[Easter]]></question>
+<question><![CDATA[Diwali]]></question>
+<question><![CDATA[Nauroz]]></question>
+<question><![CDATA[Holi]]></question>
+
+
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[Congratulations! You are simply marvellous!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+
+
+
+</data>
+</framexml>

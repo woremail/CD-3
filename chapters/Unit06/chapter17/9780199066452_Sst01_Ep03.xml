@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Early people</b>]]></text>
+<text><![CDATA[Help Mr Stone complete the statement.]]></text>
+<text><![CDATA[Click and drag the correct letters from the rocks and drop them in the blank spaces. Then click 'Submit'.]]></text>
+
+<text><![CDATA[A__c__a__ol__g__s__s are scientists who study things that are very old.]]></text>
+<text><![CDATA[Scientists who study how people live and behave are called<BR>a__t__r__p__l__g__s__s.]]></text>
+<text><![CDATA[Early people lived in __a__es.]]></text>
+<text><![CDATA[D__t__ __g is a process to find out the age of very old objects.]]></text>
+<text><![CDATA[The age when people used weapons made of stones and rocks to hunt is called the S __ __ __ __ Age.]]></text>
+<text><![CDATA[A rod that holds a wheel at each of its ends is called an<BR>__ x l__.]]></text>
+<text><![CDATA[The invention of the <BR>__ __ee__ changed human life completely.]]></text>
+<text><![CDATA[The first important discovery of human beings was __i__ __.]]></text>
+<text><![CDATA[Cultivation first started during the B__o__ __e Age.]]></text>
+<text><![CDATA[The use of bows and arrows started during the I __ __ __ Age.]]></text>
+<text><![CDATA[<B>Submit</B>]]></text>
+<text><![CDATA[Start]]></text>
+
+<!-- Number -->
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number> 
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number> 
+
+<!-- Question text -->
+
+<Question><![CDATA[a]]></Question>
+<Question><![CDATA[b]]></Question>
+<Question><![CDATA[c]]></Question>
+<Question><![CDATA[d]]></Question>
+<Question><![CDATA[e]]></Question>
+<Question><![CDATA[f]]></Question>
+<Question><![CDATA[g]]></Question>
+<Question><![CDATA[h]]></Question>
+<Question><![CDATA[i]]></Question>
+<Question><![CDATA[j]]></Question>
+<Question><![CDATA[k]]></Question>
+<Question><![CDATA[l]]></Question>
+<Question><![CDATA[m]]></Question>
+<Question><![CDATA[n]]></Question>
+<Question><![CDATA[o]]></Question>
+<Question><![CDATA[p]]></Question>
+<Question><![CDATA[q]]></Question>
+<Question><![CDATA[r]]></Question>
+<Question><![CDATA[s]]></Question>
+<Question><![CDATA[t]]></Question>
+<Question><![CDATA[u]]></Question>
+<Question><![CDATA[v]]></Question>
+<Question><![CDATA[w]]></Question>
+<Question><![CDATA[x]]></Question>
+<Question><![CDATA[y]]></Question>
+<Question><![CDATA[z]]></Question>
+
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct.Try again!]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too!]]></feedback>
+<feedback><![CDATA[The correct answer is...]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Submit]]></feedback>
+
+
+
+</data>
+</framexml>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<pop><![CDATA[Hi there! I am Bunny, the rabbit!]]></pop>
+<pop><![CDATA[Today, I am here to take you through an interesting journey]]></pop>
+<pop><![CDATA[of geography, culture, and history.]]></pop>
+<pop><![CDATA[To proceed, just click any of the units on the screen!]]></pop>
+<pop><![CDATA[Now click any one of the lessons.]]></pop>
+<pop><![CDATA[Click on any one of the units.]]></pop>
+<pop><![CDATA[Now click the lesson.]]></pop>
+
+<unit>
+	<Num><![CDATA[01]]></Num>
+	<name><![CDATA[Unit 1 : Geography]]></name>
+	<main><![CDATA[chapters/Unit01/chapter01/9780199066452_Sst03_Teis01.swf]]></main>
+	<main><![CDATA[chapters/Unit01/chapter02/9780199066452_Sst03_Lnw01.swf]]></main>
+	<main><![CDATA[chapters/Unit01/chapter04/9780199066452_Sst03_clmt01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 1 : The Earth in space]]></name>
+		<path><![CDATA[chapters/Unit01/chapter01/9780199066452_Sst03_Teis02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter01/9780199066452_Sst03_Teis03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 2 : Land and water]]></name>
+		<path><![CDATA[chapters/Unit01/chapter02/9780199066452_Sst03_Lnw02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter02/9780199066452_Sst03_Lnw03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 4 : Climate]]></name>
+		<path><![CDATA[chapters/Unit01/chapter04/9780199066452_Sst03_clmt02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter04/9780199066452_Sst03_clmt03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[02]]></Num>
+	<name><![CDATA[Unit 2 : Citizenship]]></name>
+	<main><![CDATA[chapters/Unit02/chapter08/9780199066452_Sst03_srvcs01.swf]]></main>
+	<main><![CDATA[chapters/Unit02/chapter09/9780199066452_Sst03_trnspt01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 8 : Services]]></name>
+		<path><![CDATA[chapters/Unit02/chapter08/9780199066452_Sst03_srvcs02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter08/9780199066452_Sst03_srvcs03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 9 : Transport]]></name>
+		<path><![CDATA[chapters/Unit02/chapter09/9780199066452_Sst03_trnspt02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter09/9780199066452_Sst03_trnspt03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[03]]></Num>
+	<name><![CDATA[Unit 3 : Work and Money]]></name>
+	<main><![CDATA[chapters/Unit03/chapter12/9780199066452_Sst01_mnb01.swf]]></main>	
+		<lesson>
+		<name><![CDATA[Lesson 12 : Money and banks]]></name>
+		<path><![CDATA[chapters/Unit03/chapter12/9780199066452_Sst01_mnb02.swf]]></path>
+		<path><![CDATA[chapters/Unit03/chapter12/9780199066452_Sst01_mnb03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[04]]></Num>
+	<name><![CDATA[Unit 4 : Culture]]></name>
+	<main><![CDATA[chapters/Unit04/chapter14/9780199066452_Sst01_fest01.swf]]></main>	
+	<lesson>
+		<name><![CDATA[Lesson 14 : Festivals]]></name>
+		<path><![CDATA[chapters/Unit04/chapter14/9780199066452_Sst01_fest02.swf]]></path>
+		<path><![CDATA[chapters/Unit04/chapter14/9780199066452_Sst01_fest03.swf]]></path>
+	</lesson>	
+</unit>
+
+
+<unit>
+	<Num><![CDATA[06]]></Num>
+	<name><![CDATA[Unit 6 : History and Rights]]></name>
+	<main><![CDATA[chapters/Unit06/chapter17/9780199066452_Sst01_Ep01.swf]]></main>
+	<main><![CDATA[chapters/Unit06/chapter18/9780199066452_Sst01_Rlgn01.swf]]></main>
+		<lesson>
+		<name><![CDATA[Lesson 17 : Early people]]></name>
+		<path><![CDATA[chapters/Unit06/chapter17/9780199066452_Sst01_Ep02.swf]]></path>
+		<path><![CDATA[chapters/Unit06/chapter17/9780199066452_Sst01_Ep03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 18 : Religion]]></name>
+		<path><![CDATA[chapters/Unit06/chapter18/9780199066452_Sst01_Rlgn02.swf]]></path>
+		<path><![CDATA[chapters/Unit06/chapter18/9780199066452_Sst01_Rlgn03.swf]]></path>
+	</lesson>
+
+</unit>
+
+<mainFrame>
+	<text><![CDATA[Unit 1 : Geography]]></text>
+	<text><![CDATA[Unit 2 : Citizenship]]></text>
+	<text><![CDATA[Unit 3 : Work and Money]]></text>
+	<text><![CDATA[Unit 4 : Culture]]></text>
+	<text><![CDATA[Unit 6 : History and Rights]]></text>
+</mainFrame>
+
+</data>
+</framexml>
